@@ -1,7 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
+![MasterHead](https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif)
 <h1 align="center">Hi 👋, I'm Tomojit Chakraborty</h1>
 <h3 align="center">A am passionate frontend developer.As an ambitious IT engineering student specializing in Java programming and web development, I am enthusiastic about bringing innovative ideas to life.✨🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
+
 
 - 🔭 I’m currently working on [CSI Internship](https://github.com/Tomojit123/CSI-Task2)
 
