@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tomojit Chakraborty</h1>
 <h3 align="center">A am passionate frontend developer.As an ambitious IT engineering student specializing in Java programming and web development, I am enthusiastic about bringing innovative ideas to life.✨🚀</h3>
 
-- 🔭 I’m currently working on [CSI Internship](https://github.com/Tomojit123/CSI-Task2)
+- 🔭 I’m currently working on [CSI Internship](https://github.com/Tomojit123/CSI-Task2).
 
 - 🌱 I’m currently learning **React js,node.js**
 
